@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
 
-    "github.com/skybytes/greetings"
+    "github.com/skybytescode/greetings"
 )
 
 func main() {
@@ -11,3 +11,5 @@ func main() {
     message := greetings.Hello("Gladys")
     fmt.Println(message)
 }
+
+
